@@ -7,6 +7,7 @@ thought is to do it through a Github repository. We'll see how that works out...
 <p>Here are a couple Links:<br/>
 <a href="page1.php"> page 1 </a><br/>
 <a href="page2.php"> page 2 </a><br/>
+<a href="page3.php">NEW!!! Page 3</a><br/>
 <?php echo "If you can see this, then php is working.<br/>"?>
 </p>
 
