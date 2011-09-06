@@ -8,6 +8,9 @@ thought is to do it through a Github repository. We'll see how that works out...
 <a href="page1.php"> page 1 </a><br/>
 <a href="page2.php"> page 2 </a><br/>
 <a href="page3.php">NEW!!! Page 3</a><br/>
+<a href="canvastest.php">Canvas Test</a><br/>
+<a href="websockettest.php">Check browser websocket support</a><br/>
+<br/>
 <?php echo "If you can see this, then php is working.<br/>"?>
 </p>
 
